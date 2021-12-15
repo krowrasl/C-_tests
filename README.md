@@ -1,2 +1,2 @@
 # C-_tests
-solving tast task on https://www.codewars.com/
+solving test tasks on https://www.codewars.com/
