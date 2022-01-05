@@ -1,3 +1,5 @@
+/* Count the letters only in the string
+*/
 using System;
 using System.Collections.Generic;
 
