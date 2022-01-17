@@ -9,3 +9,8 @@ for(var letterNo = 0; letterNo < str.Length; letterNo++)
     }
 }
 return str.Trim();
+
+/*Best practice
+public static string BreakCamelCase(string str) =>
+    new Regex("([A-Z])").Replace(str, " $1");
+    */
